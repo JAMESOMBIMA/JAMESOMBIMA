@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAMESOMBIMA
+- 👋 Hi, I’m @drjay
 - 👀 I’m interested in learning and advancing my development skills 
 - 🌱 I’m currently learning and creating new basic projects 
 - 💞️ I’m looking to collaborate on website development 
@@ -8,6 +8,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-JAMESOMBIMA/JAMESOMBIMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Drjay  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
